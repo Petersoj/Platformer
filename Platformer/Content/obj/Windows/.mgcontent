@@ -35,9 +35,7 @@
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/MonsterD/Run.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Celebrate.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Die.png</File>
-    <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Jump.png</File>
-    <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Gem.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Tiles/BlockA0.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Tiles/BlockA1.png</File>
@@ -50,5 +48,7 @@
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Tiles/BlockB1.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Tiles/Exit.png</File>
     <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Tiles/Platform.png</File>
+    <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
+    <File>/Users/jpet4781/Documents/Xam/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
   </SourceFiles>
 </SourceFileCollection>
